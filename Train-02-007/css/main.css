@@ -1,1 +1,25 @@
 /* Code start here */
+
+.ghost{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.5;
+    z-index: 10;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background-image: url('../global/images/ghost.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.logo-crux{
+    width: 13.8vw;
+    height: 11.9vh;
+
+    left: 0.5vw;
+    top: 2.3vh;
+
+}
