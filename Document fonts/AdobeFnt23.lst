@@ -1,0 +1,546 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Black
+FamilyName:Avenir
+StyleName:Black
+FullName:Avenir Black
+MenuName:Avenir Black
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:704
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Black
+NameArray:0,Mac,4,Avenir Black
+NameArray:0,Win,1,Avenir Black
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BlackOblique
+FamilyName:Avenir
+StyleName:Black Oblique
+FullName:Avenir Black Oblique
+MenuName:Avenir Black Oblique
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:1004
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Black Oblique
+NameArray:0,Mac,4,Avenir Black Oblique
+NameArray:0,Win,1,Avenir Black Oblique
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Book
+FamilyName:Avenir
+StyleName:Book
+FullName:Avenir Book
+MenuName:Avenir Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Book
+NameArray:0,Mac,4,Avenir Book
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BookOblique
+FamilyName:Avenir
+StyleName:Book Oblique
+FullName:Avenir Book Oblique
+MenuName:Avenir Book
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:388
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Book Oblique
+NameArray:0,Mac,4,Avenir Book Oblique
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Heavy
+FamilyName:Avenir
+StyleName:Heavy
+FullName:Avenir Heavy
+MenuName:Avenir Heavy
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:1304
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Heavy
+NameArray:0,Mac,4,Avenir Heavy
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-HeavyOblique
+FamilyName:Avenir
+StyleName:Heavy Oblique
+FullName:Avenir Heavy Oblique
+MenuName:Avenir Heavy
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:1588
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Heavy Oblique
+NameArray:0,Mac,4,Avenir Heavy Oblique
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Light
+FamilyName:Avenir
+StyleName:Light
+FullName:Avenir Light
+MenuName:Avenir Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:1904
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Light
+NameArray:0,Mac,4,Avenir Light
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-LightOblique
+FamilyName:Avenir
+StyleName:Light Oblique
+FullName:Avenir Light Oblique
+MenuName:Avenir Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:2220
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Light Oblique
+NameArray:0,Mac,4,Avenir Light Oblique
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Medium
+FamilyName:Avenir
+StyleName:Medium
+FullName:Avenir Medium
+MenuName:Avenir Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:2536
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Medium
+NameArray:0,Mac,4,Avenir Medium
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-MediumOblique
+FamilyName:Avenir
+StyleName:Medium Oblique
+FullName:Avenir Medium Oblique
+MenuName:Avenir Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:2836
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Medium Oblique
+NameArray:0,Mac,4,Avenir Medium Oblique
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Oblique
+FamilyName:Avenir
+StyleName:Oblique
+FullName:Avenir Oblique
+MenuName:Avenir
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:3152
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Oblique
+NameArray:0,Mac,4,Avenir Oblique
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Roman
+FamilyName:Avenir
+StyleName:Roman
+FullName:Avenir Roman
+MenuName:Avenir
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Avenir.ttc
+TTCOffset:3468
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1690368362
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Roman
+NameArray:0,Mac,4,Avenir Roman
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+FullName:Adobe Arabic Regular
+MenuName:Adobe Arabic
+StyleBits:0
+FamilyNameNative:Adobe Arabic
+StyleNameNative:Regular
+FullNameNative:Adobe Arabic Regular
+WritingScript:Arabic
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:299680
+FileModTime:1690368362
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ClearSans-Bold
+FamilyName:Clear Sans
+StyleName:Bold
+FullName:Clear Sans Bold
+MenuName:Clear Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\ClearSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:269792
+FileModTime:1690368362
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clear Sans Bold
+NameArray:0,Win,1,Clear Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ClearSans
+FamilyName:Clear Sans
+StyleName:Regular
+FullName:Clear Sans
+MenuName:Clear Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\ClearSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:304516
+FileModTime:1690368362
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clear Sans
+NameArray:0,Win,1,Clear Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+FullName:Helvetica
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Helvetica.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2369376
+FileModTime:1690368363
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica
+NameArray:0,Mac,4,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica Bold
+MenuName:Helvetica
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Helvetica.ttc
+TTCOffset:380
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2369376
+FileModTime:1690368363
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Bold
+NameArray:0,Mac,4,Helvetica lihava
+NameArray:0,Mac,4,Helvetica Gras
+NameArray:0,Mac,4,Helvetica Fett
+NameArray:0,Mac,4,Helvetica grassetto
+NameArray:0,Mac,4,Helvetica vet
+NameArray:0,Mac,4,Helvetica Fet
+NameArray:0,Mac,4,Helvetica Negrita
+NameArray:0,Mac,4,Helvetica Carregado
+NameArray:0,Mac,4,Helvetica Halvfet
+NameArray:0,Mac,18,Helvetica Bold
+NameArray:4,Mac,4,Helvetica أسèد
+NameArray:4,Mac,4,Helvetica برجستç
+NameArray:5,Mac,4,Helvetica עבה
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-BoldOblique
+FamilyName:Helvetica
+StyleName:Bold Oblique
+FullName:Helvetica Bold Oblique
+MenuName:Helvetica
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Helvetica.ttc
+TTCOffset:1028
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2369376
+FileModTime:1690368363
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica Bold Oblique
+NameArray:0,Mac,4,Helvetica Bold Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Light
+FamilyName:Helvetica
+StyleName:Light
+FullName:Helvetica Light
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Helvetica.ttc
+TTCOffset:1344
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2369376
+FileModTime:1690368363
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica Light
+NameArray:0,Mac,4,Helvetica Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-LightOblique
+FamilyName:Helvetica
+StyleName:Light Oblique
+FullName:Helvetica Light Oblique
+MenuName:Helvetica
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Helvetica.ttc
+TTCOffset:1644
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2369376
+FileModTime:1690368363
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica Light Oblique
+NameArray:0,Mac,4,Helvetica Light Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Oblique
+FamilyName:Helvetica
+StyleName:Oblique
+FullName:Helvetica Oblique
+MenuName:Helvetica
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\UTA\CRUX Folder\Document fonts\Helvetica.ttc
+TTCOffset:696
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2369376
+FileModTime:1690368363
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica Oblique
+NameArray:0,Mac,4,Helvetica Oblique
+%EndFont
+
