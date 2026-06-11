@@ -23,3 +23,64 @@
     top: 2.3vh;
 
 }
+
+.flash-card{
+    left: 0vw;
+    bottom: 0vh;
+}
+
+.flash-card-background{
+    left: 10vw;
+    bottom: 15vh;
+
+    width: 35vw;
+    height: 30vh;
+
+    border-radius: 1.2vw;
+    opacity: 0.7;
+    background-color: aliceblue;
+}
+
+.flash-card-title{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+
+    font-family: "clear-sans-bold";
+    line-height: 2.5vh;
+    width: 45.34016vw;
+    font-size: 3.7vh;
+    
+    left: 12.5vw;
+    top: -43vh;
+}
+
+.flash-card-content{
+    font-family: "clear-sans-regular";
+    font-size: 1.885vh;
+    line-height: 2.15vh;
+    text-align: justify;
+
+    width: 45.34016vw;
+
+    left: 12.5vw;
+    top: -34vh;
+}
+
+.btn-next{
+    left: 34.26vw;
+    top: -18vh;
+
+    width: 7.5vw;
+    height: 2.5vh;
+
+    font-size: 1.6vh;
+    font-family: "clear-sans-bold";
+
+    background-color: gold;
+    border-radius: 1.5vw;
+    border: none;
+}
+.btn-next span{
+    position: relative;
+    top: 0.5vh;
+}
