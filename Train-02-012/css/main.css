@@ -14,8 +14,8 @@
 
 .automatic {
     width: 100vw;
-    height: 119vh;
-    background: url('../images/automatic.png') no-repeat;
+    height: 100vh;
+    background: url('../images/automatic.jpg') no-repeat;
     background-size: cover;
     
 }
@@ -23,25 +23,26 @@
 .footer-tab {
     position: absolute;
     border-radius: 0;
-    width: 97vw;
+    width: 95vw;
     height: 4.67vh;
     left: -0.2vw;
-    bottom: -1.5vh;
+    bottom: 0.2vh;
 }
 
 .footer-sub-tab {
     position: absolute;
     bottom: 4.5vh;
-    width: 97vw;
-    height: 3vh;
+    width: 94.8vw;
+    height: 5.5vh;
     border-radius: 0;
     left: -0.3vw;
+    padding-left: 1vw;
 }
 
 .content-box {
-    width: 36vw;
-    height: 40vh;
-    top: 49vh;
+    width: 35vw;
+    height: 37vh;
+    top: 50.4vh;
     left: 10vw;
     background: #fcfeffd0;
     border-radius: 1vw;
@@ -88,10 +89,10 @@
 .btn-next {
     background: #f2cd09ff;
     border-radius: 2vw;
-    padding: 0 2vw;
+    padding: 0 1.8vw;
     text-align: center;
     font-size: 1.6vh;
-    margin-top: 32.5vh;
+    margin-top: 29.5vh;
     margin-left: 23vw;
     font-weight: bold;
 }
@@ -107,4 +108,10 @@
 .content-desc.show,
 .btn-next.show {
     opacity: 1;
+}
+
+
+.footer-sub-item {
+    height: 2vh;
+    line-height: 3vh;
 }
