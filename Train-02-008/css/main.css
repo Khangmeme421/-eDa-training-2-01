@@ -25,6 +25,68 @@
 }
 
 
+.flash-card{
+    left: -0.3vw;
+    bottom: 6.3vh;
+}
+
+.flash-card-background{
+    left: 10vw;
+    bottom: 15vh;
+
+    width: 34.5vw;
+    height: 40vh;
+
+    border-radius: 1.2vw;
+    opacity: 0.4;
+    background-color: aliceblue;
+}
+
+.flash-card-title{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+
+    font-family: "clear-sans-bold";
+    line-height: 4.5vh;
+    width: 45.34016vw;
+    font-size: 3.7vh;
+    
+    left: 13.9vw;
+    top: -53vh;
+}
+
+.flash-card-content{
+    font-family: "clear-sans-regular";
+    font-size: 1.885vh;
+    line-height: 2.15vh;
+    text-align: justify;
+
+    width: 45.34016vw;
+
+    left: 13.5vw;
+    top: -38.2vh;
+}
+
+.btn-next{
+    left: 34.26vw;
+    top: -12vh;
+
+    width: 7.5vw;
+    height: 2.5vh;
+
+    font-size: 1.6vh;
+    font-family: "clear-sans-bold";
+
+    background-color: gold;
+    border-radius: 1.5vw;
+    border: none;
+}
+.btn-next span{
+    padding-left: 2.45vw;
+    top: 0.5vh;
+}
+
+
 
 .footer{
     width: 96.4vw;
