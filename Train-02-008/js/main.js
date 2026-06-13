@@ -1,6 +1,6 @@
 $(document).ready(function () {
     // setting slide
-    currentSlide = "001";
+    currentSlide = "012";
     localStorage.setItem("current-slide", currentSlide);
     disableSwipe = false;
   
@@ -8,16 +8,22 @@ $(document).ready(function () {
     var el = document.getElementById("container");
     swipedetect(el, function (swipedir) {
       if (swipedir == "left") {
-        window.goToSlide("002");
+        window.goToSlide("013");
       }
       if (swipedir == "right") {    
-        disableSwipe = true;
+        window.goToSlide("011");
       }
     });
   
-    // animation here
-    setTimeout(() => {
-      $(".line").addClass("show"); //this line only for example
-    }, 500);
-  });
+    // animation
+    const animations = {
+        100: [".content-title"],
+        400: [".content-desc"],
+        900: [".btn-next"],
+    };
+
+    for (const [offset, elem] of Object.entries(animations)) {
+        setTimeout(() => elem.forEach((e) => $(e).addClass("show")), offset);
+    }
+});
   
