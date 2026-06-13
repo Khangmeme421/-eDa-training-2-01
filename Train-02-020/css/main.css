@@ -1,0 +1,77 @@
+/* .ghost {
+    width: 100vw;
+    height: 100vh;
+    background: url('../thumb.png') no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    z-index: 10;
+} */
+
+
+.bg {
+    background-color: #def3e7;
+}
+
+.logo-crux {
+    top: 2vh;
+    right: -1vw;
+}
+
+
+.footer-tab {
+    position: absolute;
+    border-radius: 0;
+    width: 95vw;
+    height: 4.67vh;
+    left: -0.2vw;
+    bottom: 0.2vh;
+}
+
+.producer-section {
+    top: 20vh;
+    left: 10vw;
+    width: 80vw;
+}
+
+.section-title {
+    font-size: 4vh;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 1vh;
+}
+
+.section-desc {
+    font-size: 1.51vw;
+    color: #333;
+    line-height: 2.5vh;
+    margin-top: 1vh;
+}
+
+.traders-section {
+    top: 38vh;
+    left: 10vw;
+    width: 80vw;
+    line-height: normal;
+}
+
+.traders-info {
+    margin-top: 3vh;
+    line-height: 1.9vh;
+}
+
+.label-green {
+    font-size: 1.9vw;
+    color: #2a9d8f;
+    font-weight: bold;
+}
+
+.producer-section,
+.traders-section {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.producer-section.show,
+.traders-section.show {
+    opacity: 1;
+}
