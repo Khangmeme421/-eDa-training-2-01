@@ -87,6 +87,23 @@
 }
 
 
+/** 
+aminatation
+**/
+.flash-card,
+.btn-next
+{
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+.flash-card.show,
+.btn-next.show
+{
+    opacity: 1;
+}
+
+
+
 
 .footer{
     width: 96.4vw;

@@ -94,6 +94,25 @@ h3{
     color: #000;
 }   
 
+/** 
+aminatation
+**/
+.main-title,
+.sub-title,
+.hero-text,
+.btn-next
+{
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+.main-title.show,
+.sub-title.show,
+.hero-text.show,
+.btn-next.show
+{
+    opacity: 1;
+}
+
 
 .footer{
     width: 96.4vw;

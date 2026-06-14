@@ -32,10 +32,10 @@
 
 .flash-card-background{
     left: 10vw;
-    bottom: 15vh;
+    bottom: 5vh;
 
     width: 34.5vw;
-    height: 40vh;
+    height: 50vh;
 
     border-radius: 1.2vw;
     opacity: 0.4;
@@ -87,6 +87,21 @@
 }
 
 
+
+/** 
+aminatation
+**/
+.flash-card,
+.btn-next
+{
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+.flash-card.show,
+.btn-next.show
+{
+    opacity: 1;
+}
 
 .footer{
     width: 96.4vw;
