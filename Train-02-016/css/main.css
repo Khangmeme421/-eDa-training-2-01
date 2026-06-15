@@ -32,12 +32,12 @@
 
 .footer-sub-tab {
     position: absolute;
-    bottom: 4.5vh;
-    width: 94.8vw;
-    height: 5.5vh;
-    border-radius: 0;
-    left: -0.3vw;
+    bottom: 5.7vh;
+    width: 94.5vw;
+    height: 4.5vh;
+    left: -0.2vw;
     padding-left: 1vw;
+    border-radius: 1vh;
 }
 
 .content-box {
