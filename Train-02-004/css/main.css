@@ -1,0 +1,105 @@
+.bg {
+  background-image: url(../images/background.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.note-page {
+  top: 0;
+  left: -1vw;
+  width: 100vw;
+  height: 100vh;
+}
+
+.note-icon {
+  width: 7vw;
+  height: 8.5vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.note-icon.show {
+  opacity: 1;
+}
+
+.note-icon-1 {
+  top: 29vh;
+  left: 9vw;
+  background-image: url(../images/image-logo-1.png);
+}
+
+.note-icon-2 {
+  top: 29vh;
+  left: 55vw;
+  background-image: url(../images/image-logo-2.png);
+}
+
+.note-icon-3 {
+  top: 53.91vh;
+  left: 9.79vw;
+  background-image: url(../images/image-logo-3.png);
+}
+
+.note-icon-4 {
+  top: 53.91vh;
+  left: 55vw;
+  background-image: url(../images/image-logo-4.png);
+}
+
+.note-block {
+  font-family: Verdana, sans-serif;
+  width: 36.13vw;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.note-block.show {
+  opacity: 1;
+}
+
+.note-block-1 {
+  top: 24.61vh;
+  left: 18vw;
+}
+
+.note-block-2 {
+  top: 24.61vh;
+  left: 64.18vw;
+}
+
+.note-block-3 {
+  top: 53.91vh;
+  left: 18vw;
+}
+
+.note-block-4 {
+  top: 53.91vh;
+  left: 64.18vw;
+}
+
+.note-block-title {
+  font-size: 1.5vw;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 1.04vh;
+}
+
+.note-block-text {
+  font-family: Verdana, sans-serif;
+  font-size: 1.2vw;
+  line-height: 1.3;
+  color: #333333;
+}
+
+.note-indent {
+  margin-left: 1.5vw;
+}
+
+.note-block-title.note-block-title-2 {
+  margin-top: 1.5vh;
+  margin-bottom: 0;
+}
