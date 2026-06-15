@@ -10,6 +10,9 @@ $(document).ready(function () {
     if (swipedir == "right") {
       window.goToSlide("005");
     }
+    if (swipedir == "left") {
+      window.goToSlide("007");
+    }
   });
 
   // animation here
