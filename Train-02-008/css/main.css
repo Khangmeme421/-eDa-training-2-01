@@ -38,7 +38,7 @@
     height: 50vh;
 
     border-radius: 1.2vw;
-    opacity: 0.4;
+    opacity: 0.7;
     background-color: aliceblue;
 }
 
@@ -61,7 +61,7 @@
     line-height: 2.15vh;
     text-align: justify;
 
-    width: 45.34016vw;
+    width: 31.34016vw;
 
     left: 13.5vw;
     top: -38.2vh;
@@ -91,13 +91,24 @@
 /** 
 aminatation
 **/
-.flash-card,
+.flash-card-background{
+    opacity: 0;
+    transform: translateY(10vh);
+    transition: all 0.5s ease;
+}
+.flash-card-background.show{
+    opacity: 0.7;
+    transform: translateY(0);
+}
+.flash-card-title,
+.flash-card-content,
 .btn-next
 {
     opacity: 0;
     transition: all 0.5s ease;
 }
-.flash-card.show,
+.flash-card-title.show,
+.flash-card-content.show,
 .btn-next.show
 {
     opacity: 1;

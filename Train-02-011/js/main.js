@@ -17,12 +17,20 @@ $(document).ready(function () {
   
     // animation here
     setTimeout(() => {
-      $(".flash-card").addClass("show"); //this line only for example
-    }, 300);
+      $(".flash-card-background").addClass("show"); 
+    }, 400);
 
     setTimeout(() => {
-      $(".btn-next").addClass("show"); //this line only for example
-    }, 500);
+      $(".flash-card-title").addClass("show");
+    }, 800);
+
+    setTimeout(() => {
+      $(".flash-card-content").addClass("show");
+    }, 800);
+
+    setTimeout(() => {
+      $(".btn-next").addClass("show");
+    }, 800);
 
     $(".btn-next").on("touchend click", function () {
       window.goToSlide("012");
