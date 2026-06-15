@@ -1,0 +1,142 @@
+.bg {
+  background-image: url(../images/bg-6.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.preserve-page {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  font-family: Verdana, sans-serif;
+}
+
+.rectangle-main {
+  top: 2vh;
+}
+
+.image-left {
+  top: 18.3vh;
+  left: 2.27vw;
+  width: 32.18vw;
+  height: 73vh;
+  background-image: url(../images/image-left.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.image-left.show {
+  opacity: 1;
+}
+
+.image-right {
+  top: 17.75vh;
+  left: 52.44vw;
+  width: 40.02vw;
+  height: 63.06vh;
+  background-image: url(../images/image-right.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.image-right.show {
+  opacity: 1;
+}
+
+.preserve-title {
+  top: 28vh;
+  font-weight: 600;
+  left: 10.5vw;
+  font-size: 2.34vw;
+  color: #0b7557;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.preserve-title.show {
+  opacity: 1;
+}
+
+.rectangle-ig {
+  top: 34.3vh;
+  left: 10.81vw;
+  width: 35.11vw;
+  height: 9.5vh;
+  background-image: url(../images/rectangle-ig.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.rectangle-ig.show {
+  opacity: 1;
+}
+
+.rectangle-text {
+  font-size: 1.2vw;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+  padding: 0 1vw;
+}
+
+.tem-row {
+  left: 12.81vw;
+  height: 6.06vh;
+  display: flex;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.tem-row.show {
+  opacity: 1;
+}
+
+.tem-row-1 {
+  top: 43vh;
+}
+
+.tem-row-2 {
+  top: 49.78vh;
+}
+
+.tem-row-3 {
+  top: 56.5vh;
+}
+
+.tem-row-4 {
+  top: 63.3vh;
+}
+
+.tem-bg {
+  top: 1.5vh;
+  left: -2vw;
+  width: 35vw;
+  height: 6.06vh;
+  background-image: url(../images/tem.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.tem-text {
+  position: relative;
+  z-index: 1;
+  top: 1.5vh;
+  left: 10vw;
+  width: 30vw;
+  font-size: 1vw;
+  font-weight: 600;
+  color: #00ad95;
+}

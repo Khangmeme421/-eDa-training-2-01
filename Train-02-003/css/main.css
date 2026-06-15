@@ -1,0 +1,115 @@
+.bg {
+  background-image: url(../images/img-5.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.headline {
+  font-family: "clear-sans-bold";
+  top: 16.93vh;
+  left: 9vw;
+  width: 58.2vw;
+  font-size: 2.8vw;
+  font-weight: 700;
+  color: #2e7d4f;
+  line-height: 3.13vh;
+  opacity: 0;
+  transform: translateY(1.95vh);
+  transition:
+    opacity 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    transform 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition-delay: 0.05s;
+}
+
+.ingredient-block {
+  font-family: "clear-sans-bold";
+  top: 24.22vh;
+  left: 9vw;
+  width: 47vw;
+  opacity: 0;
+  transform: translateY(1.95vh);
+  transition:
+    opacity 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    transform 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition-delay: 0.2s;
+}
+
+.ingredient-title {
+  font-size: 1.5vw;
+  font-weight: 800;
+  color: #333333;
+  margin-bottom: 1vh;
+}
+
+.ingredient-sub {
+  font-size: 1.07vw;
+  color: #333333;
+}
+
+.ingredient-row {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: end;
+  align-items: flex-end;
+  font-family: "clear-sans-bold";
+  font-size: 1.07vw;
+  color: #333333;
+  line-height: 1.3vh;
+}
+
+.ing-name {
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.ing-dots {
+  -webkit-box-flex: 1;
+  flex: 1;
+  border-bottom: 0.13vw dotted #555555;
+  margin: 0 0.39vw;
+  margin-bottom: 0.39vh;
+  min-width: 5vw;
+}
+
+.ing-amount {
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-weight: 600;
+}
+
+.ing-amount.adjust {
+  width: 2.8vw;
+}
+
+.price-block {
+  font-family: "clear-sans-bold";
+  top: 71vh;
+  left: 35vw;
+  width: 40vw;
+  opacity: 0;
+  transform: translateY(1.95vh);
+  transition:
+    opacity 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    transform 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition-delay: 0.38s;
+}
+
+.price-main {
+  font-size: 1.8vw;
+  color: white;
+  line-height: 4vh;
+}
+
+.price-note {
+  font-size: 1.8vw;
+  color: white;
+  line-height: 2.6vh;
+}
+
+.headline.show,
+.ingredient-block.show,
+.price-block.show {
+  opacity: 1;
+  transform: translateY(0);
+}
