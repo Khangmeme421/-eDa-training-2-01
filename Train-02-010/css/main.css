@@ -1,0 +1,152 @@
+/* Code start here */
+
+.ghost{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.5;
+    z-index: 10;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background-image: url('../global/images/ghost.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.logo-crux{
+    width: 13.8vw;
+    height: 11.9vh;
+
+    left: 0.5vw;
+    top: 2.3vh;
+
+}
+
+.flash-card{
+    left: -0.2vw;
+    bottom: 6vh;
+}
+
+.flash-card-background{
+    left: 10vw;
+    bottom: -8vh;
+
+    width: 35.1vw;
+    height: 63vh;
+
+    border-radius: 1.2vw;
+    opacity: 0.7;
+    background-color: aliceblue;
+}
+
+.flash-card-title{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+
+    font-family: "clear-sans-bold";
+    line-height: 4.5vh;
+    width: 45.34016vw;
+    font-size: 3.7vh;
+    
+    left: 13vw;
+    top: -53.6vh;
+}
+
+.flash-card-content{
+    font-family: "clear-sans-regular";
+    font-size: 1.885vh;
+    line-height: 2.15vh;
+    text-align: justify;
+
+    width: 32.34016vw;
+
+    left: 13.05vw;
+    top: -34.1vh;
+}
+
+.btn-next{
+    left: 34.26vw;
+    top: -12vh;
+
+    width: 7.5vw;
+    height: 2.5vh;
+
+    font-size: 1.6vh;
+    font-family: "clear-sans-bold";
+
+    background-color: gold;
+    border-radius: 1.5vw;
+    border: none;
+}
+.btn-next span{
+    padding-left: 2.45vw;
+    top: 0.5vh;
+}
+
+
+/** 
+aminatation
+**/
+.flash-card-background{
+    opacity: 0;
+    transform: translateY(10vh);
+    transition: all 0.5s ease;
+}
+.flash-card-background.show{
+    opacity: 0.7;
+    transform: translateY(0);
+}
+.flash-card-title,
+.flash-card-content,
+.btn-next
+{
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+.flash-card-title.show,
+.flash-card-content.show,
+.btn-next.show
+{
+    opacity: 1;
+}
+
+.footer{
+    width: 96.4vw;
+    left: 0vw;
+
+
+}
+
+.footer-sub-tab{
+    bottom : 6vh;
+    line-height: 0.9vh;
+}
+
+.footer-tab{
+    line-height: 0.98vh;
+    border-radius: 0.8vh;
+    padding: 0vw;
+}
+.footer-sub-tab{
+    border-radius: 0.8vh 0.8vh 0 0;
+}
+
+
+.footer-tab .footer-item{
+    font-size: 1.8vh;
+    line-height: 1.8vh;
+}
+
+.footer-sub-item{
+    font-size: 1.6vh;
+    line-height: 0.9vh;
+}
+
+
+.footer-sub-tab{
+    font-size: 1.6vh;
+    line-height: 0.9vh;
+    width: 95.2vw;
+}

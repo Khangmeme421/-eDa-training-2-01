@@ -1,0 +1,157 @@
+/* Code start here */
+
+.ghost{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.5;
+    z-index: 10;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background-image: url('../global/images/ghost.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.logo-crux{
+    width: 13.8vw;
+    height: 11.9vh;
+
+    left: 0.5vw;
+    top: 2.3vh;
+
+}
+
+.highlight{
+    color:#067252;
+}
+h1{
+    font-size: 5.35vw;
+    line-height: 1.2;
+    left: 3.2vw;
+    top: 17vh;
+
+
+    font-family: "clear-sans-bold";
+    font-weight: normal;
+    color: #067252;
+}
+
+h3{
+    font-size: 2.85vw;
+    line-height: 1.2;
+    left: 3.34vw;
+    top: 25vh;
+
+    font-family: "clear-sans-bold";
+    font-weight: normal;
+    color: #000;
+}
+
+.hero-text{
+    font-size: 1.8vw;
+    line-height: 1.17;
+    left: 3.34vw;
+    top: 43vh;
+
+    font-family: "clear-sans-bold";
+    font-weight: normal;
+    color: #000;
+}
+
+
+
+.btn-next{
+    width: 36.5vw;
+    height: 8.8vh;
+    left: 3.4vw;
+    top: 70.2vh;
+
+    background-color: gold;
+    border-radius: 2vh;
+}
+
+.btn-next-text{
+    font-size: 2.44vh;
+    line-height: 1.17vh;
+
+    padding-left: 3vw;
+    padding-top: 3vh;
+
+    font-family: "clear-sans-bold";
+    font-weight: bold;
+    color: #000;
+}
+
+.btn-next-info{
+    font-size: 1.8vh;
+    line-height: 1.17vh;
+
+    padding-left: 12.4vw;
+    padding-top: 5.3vh;
+
+    font-family: "clear-sans-regular";
+    font-weight: normal;
+    color: #000;
+}   
+
+/** 
+aminatation
+**/
+.main-title,
+.sub-title,
+.hero-text,
+.btn-next
+{
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+.main-title.show,
+.sub-title.show,
+.hero-text.show,
+.btn-next.show
+{
+    opacity: 1;
+}
+
+
+.footer{
+    width: 96.4vw;
+    left: 0vw;
+
+
+}
+
+.footer-sub-tab{
+    bottom : 6vh;
+    line-height: 0.9vh;
+}
+
+.footer-tab{
+    line-height: 0.98vh;
+    border-radius: 0.8vh;
+    padding: 0vw;
+}
+.footer-sub-tab{
+    border-radius: 0.8vh 0.8vh 0 0;
+}
+
+
+.footer-tab .footer-item{
+    font-size: 1.8vh;
+    line-height: 1.8vh;
+}
+
+.footer-sub-item{
+    font-size: 1.6vh;
+    line-height: 0.9vh;
+}
+
+
+.footer-sub-tab{
+    font-size: 1.6vh;
+    line-height: 0.9vh;
+    width: 95.2vw;
+}
