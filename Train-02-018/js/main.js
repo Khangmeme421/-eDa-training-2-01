@@ -10,8 +10,8 @@ $(document).ready(function () {
       if (swipedir == "left") {
         window.goToSlide("0019");
       }
-      if (swipedir == "right") {    
-        disableSwipe = true;
+      if (swipedir == "right") {
+          window.goToSlide("017"); 
       }
     });
   
