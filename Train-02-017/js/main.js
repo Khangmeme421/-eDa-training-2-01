@@ -11,7 +11,7 @@ $(document).ready(function () {
         window.goToSlide("018");
       }
       if (swipedir == "right") {    
-        disableSwipe = true;
+        window.goToSlide("016");
       }
     });
 
